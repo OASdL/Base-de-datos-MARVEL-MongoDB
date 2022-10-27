@@ -1,0 +1,2 @@
+Pegar la carpeta dataMongo en:
+C:\ProgramData\MySQL\

@@ -1,0 +1,2 @@
+Pegar la carpeta dataset en:
+C:\Program Files\MySQL
